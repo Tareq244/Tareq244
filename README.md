@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=00C4FF&center=true&vCenter=true&width=800&lines=I'm+Tareq+Alsadaqa;Full+Stack+Developer;.NET+Developer;Flutter+Developer;Open+Source+Contributor;Always+Learning+New+Technologies)](https://git.io/typing-svg) 
-
 # 💫 Summary 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=00C4FF&center=true&vCenter=true&width=800&lines=I'm+Tareq+Alsadaqa;Full+Stack+Developer;.NET+Developer;Flutter+Developer;Open+Source+Contributor;Always+Learning+New+Technologies)](https://git.io/typing-svg) 
 
 A passionate and self-driven **Full Stack Developer** dedicated to continuous learning and building real-world applications through hands-on experience and professional development.
 
