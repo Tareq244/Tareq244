@@ -1,6 +1,14 @@
-# 💫 About Me:
-Building scalable web applications using React, Angular and ASP.NET Core.<br>Open-source projects and modern web applications.<br>System Design, Cloud Deployment and Software Architecture.<br>Advanced React, Clean Architecture and Docker.<br>React, Angular, ASP.NET Core, Web APIs, SQL Server and TypeScript.<br>I enjoy turning ideas into real-world applications and continuously learning new technologies.
+# 💫 Summary
 
+Hello, I'm **Tareq Alsadaqa** 👋  
+
+A passionate and self-driven **Full Stack Developer** dedicated to continuous learning and building real-world applications through hands-on experience and professional development.
+
+I specialize in **.NET and C#**, with strong experience in developing scalable and efficient web applications. I also work with modern front-end frameworks such as **React** and **Angular**, and have experience in **Unity game development**.
+
+I have solid knowledge of **HTML, JavaScript, and related libraries**, with multiple projects showcased in my personal portfolio. I actively use **GitHub** for version control and collaborate with various deployment platforms such as **Vercel, Railway, and others** to deliver production-ready applications.
+
+I’m always looking to improve my skills, take on new challenges, and contribute to impactful projects.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tareq.alsadaqa1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tareq.alsadaqa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tareq-alsadaqa-52098032a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31135639) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tareq.alsadaqa1@gmail.com) 
