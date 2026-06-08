@@ -1,5 +1,5 @@
 # 💫 Summary
-
+![Snake animation](https://github.com/Tareq244/Tareq244/blob/output/github-contribution-grid-snake.svg)
 Hello, I'm **Tareq Alsadaqa** 👋  
 
 A passionate and self-driven **Full Stack Developer** dedicated to continuous learning and building real-world applications through hands-on experience and professional development.
