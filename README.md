@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Tareq%20Alsadaqa&fontSize=50&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=250&text=Tareq%20Alsadaqa&fontSize=50&animation=fadeIn">
 </p>
 # 💫 Summary 
 
