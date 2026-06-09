@@ -10,6 +10,10 @@ I enjoy designing clean architectures, developing REST APIs, optimizing applicat
 
 This GitHub profile showcases my projects, experiments, and technical journey as I continue to learn, build, and explore new technologies. My goal is to create software that is not only functional but also scalable, maintainable, and valuable to its users.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400">
+</p>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tareq.alsadaqa1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tareq.alsadaqa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tareq-alsadaqa-52098032a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31135639) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tareq.alsadaqa1@gmail.com) 
 
