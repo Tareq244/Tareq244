@@ -32,7 +32,7 @@ This GitHub profile showcases my projects, experiments, and technical journey as
 ## 🐍 My Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tareq244/Tareq244/output/github-contribution-grid-snake.gif" />
+  <img src="https://raw.githubusercontent.com/Tareq244/Tareq244/output/github-contribution-grid-snake.svg" />
 </p>
 ---
 
