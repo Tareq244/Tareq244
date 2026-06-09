@@ -34,5 +34,12 @@ This GitHub profile showcases my projects, experiments, and technical journey as
   ## Fuel my code with a coffee ☕
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Tareq244) 
 
-  
+
+
+
+
+
+
+
+
 ![snake gif](https://github.com/Tareq244/Tareq244/blob/output/github-contribution-grid-snake.gif)
