@@ -28,6 +28,16 @@ This GitHub profile showcases my projects, experiments, and technical journey as
 ![](https://streak-stats.demolab.com/?user=Tareq244&theme=dark&hide_border=true)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tareq244&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+
+## 🐍 My Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tareq244/Tareq244/output/github-contribution-grid-snake.gif" />
+</p>
+---
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Tareq244&theme=tokyonight&no-frame=true&row=1)
+
 ---
 ![](https://komarev.com/ghpvc/?username=Tareq244&label=Profile%20Views&color=512BD4&style=for-the-badge)
 ![](https://github-profile-trophy.vercel.app/?username=Tareq244&theme=tokyonight&no-frame=true&row=1)
@@ -38,11 +48,3 @@ This GitHub profile showcases my projects, experiments, and technical journey as
 
 
 
-
-
-
-## 🐍 My Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tareq244/Tareq244/output/github-contribution-grid-snake.gif" />
-</p>
