@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,flutter,react,angular,js,html,css,git,github,sqlserver" />
+  <img src="https://skillicons.dev/icons?i=dotnet,flutter,react,angular,js,html,css,git,github,sqlserver" />
 </p>
-# 💫 Summary 
 
 
+## 💫 Summary:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=500&color=512BD4&center=true&vCenter=true&width=800&lines=I'm+Tareq+Alsadaqa;Full+Stack+Developer;.NET+Developer;Flutter+Developer;Open+Source+Contributor;Always+Learning+New+Technologies)](https://git.io/typing-svg) 
 
 **🚀 Full Stack Developer** with a strong passion for software engineering, problem-solving, and continuous learning.
