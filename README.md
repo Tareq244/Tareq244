@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=00C4FF&center=true&vCenter=true&width=800&lines=I'm+Tareq+Alsadaqa;Full+Stack+Developer;.NET+Developer;Flutter+Developer;Open+Source+Contributor;Always+Learning+New+Technologies)](https://git.io/typing-svg) 
 
-A passionate and self-driven **Full Stack Developer** dedicated to continuous learning and building real-world applications through hands-on experience and professional development.
+**🚀 Full Stack Developer** with a strong passion for software engineering, problem-solving, and continuous learning.
 
-I specialize in **.NET and C#**, with strong experience in developing scalable and efficient web applications. I also work with modern front-end frameworks such as **React** and **Angular**, and have experience in **Unity game development**.
+Specialized in building scalable web applications and backend services using **.NET, C#, ASP.NET Core, SQL Server**, and modern software development practices. I also work with frontend technologies including **React, Angular, JavaScript, HTML, and CSS** to deliver complete end-to-end solutions.
 
-I have solid knowledge of **HTML, JavaScript, and related libraries**, with multiple projects showcased in my personal portfolio. I actively use **GitHub** for version control and collaborate with various deployment platforms such as **Vercel, Railway, and others** to deliver production-ready applications.
+I enjoy designing clean architectures, developing REST APIs, optimizing application performance, and transforming complex requirements into maintainable and reliable software. Beyond application development, I have a strong interest in creating reusable packages, automation tools, and open-source projects that contribute to the developer community.
 
-I’m always looking to improve my skills, take on new challenges, and contribute to impactful projects.
+This GitHub profile showcases my projects, experiments, and technical journey as I continue to learn, build, and explore new technologies. My goal is to create software that is not only functional but also scalable, maintainable, and valuable to its users.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tareq.alsadaqa1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tareq.alsadaqa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tareq-alsadaqa-52098032a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31135639) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tareq.alsadaqa1@gmail.com) 
