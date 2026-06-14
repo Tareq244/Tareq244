@@ -31,7 +31,9 @@ This GitHub profile showcases my projects, experiments, and technical journey as
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tareq244&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
----
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
+     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+     alt="Rainbow Line">
 
 <div align="center">   
 <img src="https://github.com/user-attachments/assets/c6dbd900-4200-42fb-affc-752a17bce4fe"
@@ -49,7 +51,6 @@ This GitHub profile showcases my projects, experiments, and technical journey as
      alt="Rainbow Line">
 </div>
 
----
 ![](https://komarev.com/ghpvc/?username=Tareq244&label=Profile%20Views&color=512BD4&style=for-the-badge)
 ![](https://github-profile-trophy.vercel.app/?username=Tareq244&theme=tokyonight&no-frame=true&row=1)
   ## Fuel my code with a coffee ☕
